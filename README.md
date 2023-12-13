@@ -25,6 +25,7 @@ Aqui estão alguns dos recursos do Game Maker:
 * Linguagem de script poderosa que permite aos usuários personalizar seus jogos com mais controle
 * Suporte para uma variedade de plataformas, incluindo Windows, macOS, Linux, Android, iOS, HTML5, Xbox, PlayStation e Nintendo Switch
 * Comunidade ativa de desenvolvedores de jogos que oferece suporte e recursos
+<br>
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTavxu0j9GBu5OTDjJz8fu9RP-lbQfRcE8_RJgx900Hh1jHBR9vgCUn3ORhZrSm" align="center" width="280"> <br>
 
 Game Maker é uma ótima opção para desenvolvedores de jogos que desejam criar jogos de forma rápida e fácil. É uma ferramenta poderosa que pode ser usada para criar jogos de alta qualidade para uma variedade de plataformas.
