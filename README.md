@@ -5,7 +5,8 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Gamer%20Maker)
 
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://manual.yoyogames.com/#t=Content.htm) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=google)](https://manual-br.yoyogames.com/GameMaker_Language/GML_Overview/GML_Overview.htm) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=google)](https://manual-br.yoyogames.com/GameMaker_Language/GML_Overview/GML_Overview.htm)
+<br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLQa_0xOU1JV9BrQzjvikgq1sm7phEJnqe&si=yWZaT1fSrJK93Hx3)
 
@@ -27,3 +28,30 @@ Aqui estão alguns dos recursos do Game Maker:
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTavxu0j9GBu5OTDjJz8fu9RP-lbQfRcE8_RJgx900Hh1jHBR9vgCUn3ORhZrSm" align="center" width="280"> <br>
 
 Game Maker é uma ótima opção para desenvolvedores de jogos que desejam criar jogos de forma rápida e fácil. É uma ferramenta poderosa que pode ser usada para criar jogos de alta qualidade para uma variedade de plataformas.
+
+# CARACTERÍSTICAS:
+## POSITIVAS:
+- **Interface Gráfica Intuitiva:** O GameMaker Studio possui uma interface gráfica intuitiva que facilita o desenvolvimento de jogos sem a necessidade de codificação extensiva.
+
+- **Ambiente No-Code:** Oferece uma abordagem no-code para o desenvolvimento de jogos, permitindo que designers criem jogos sem conhecimento avançado de programação.
+
+- **Multiplataforma:** Suporta exportação para várias plataformas, incluindo Windows, macOS, Linux, Android, iOS e consoles, permitindo uma ampla distribuição de jogos.
+
+- **Comunidade Ativa:** Conta com uma comunidade ativa que compartilha recursos, tutoriais e oferece suporte, facilitando o aprendizado e resolução de problemas.
+
+- **Ferramentas de Design Visual:** Fornece ferramentas visuais de design que simplificam a criação de níveis, personagens e elementos do jogo.
+
+- **Ampla Gama de Recursos Integrados:** Vem com uma ampla variedade de recursos integrados, como gráficos, sons e animações, facilitando o processo de desenvolvimento.
+
+## NEGATIVAS:
+- **Limitações para Projetos Complexos:** Pode apresentar limitações para projetos de jogos muito complexos ou que exigem um alto grau de personalização.
+
+- **Dependência da Interface Gráfica:** Projetos mais avançados podem exigir a integração de código, e a dependência da interface gráfica pode limitar o controle total sobre a lógica do jogo.
+
+- **Custo:** Embora exista uma versão gratuita, funcionalidades mais avançadas e exportação para algumas plataformas podem exigir a compra de licenças.
+
+- **Desempenho:** Projetos mais complexos podem enfrentar desafios de desempenho, especialmente em comparação com desenvolvimento de jogos mais otimizado em linguagens de programação nativas.
+
+- **Dependência da Versão:** Alguns recursos podem depender da versão específica do GameMaker Studio, o que pode impactar a compatibilidade entre projetos.
+
+- **Curva de Aprendizado para Código:** Para quem deseja incorporar mais código no desenvolvimento, pode haver uma curva de aprendizado ao se acostumar com a linguagem de script do GameMaker.
