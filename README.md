@@ -2,17 +2,9 @@
 👨‍⚖️GAME MAKER É UMA ENGINE DE DESENVOLVIMENTO DE JOGOS, DESENVOLVIDO PELA YOYO GAMES. ELE É USADO PARA CRIAR JOGOS 2D E 3D PARA UMA VARIEDADE DE PLATAFORMAS, INCLUINDO WINDOWS, MACOS, LINUX, ANDROID, IOS, HTML5, XBOX, PLAYSTATION E NINTENDO SWITCH.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Gamer%20Maker)
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://manual.yoyogames.com/#t=Content.htm) 
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-GML)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLQa_0xOU1JV9BrQzjvikgq1sm7phEJnqe&si=yWZaT1fSrJK93Hx3)
-
-<img src="https://juniortech.org/wp-content/uploads/2020/03/gamemaker-logo-300x300px.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 Game Maker é um motor de jogo proprietário desenvolvido pela YoYo Games. Ele é usado para criar jogos 2D e 3D para uma variedade de plataformas, incluindo Windows, macOS, Linux, Android, iOS, HTML5, Xbox, PlayStation e Nintendo Switch.
