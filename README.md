@@ -49,3 +49,4 @@ Game Maker é uma ótima opção para desenvolvedores de jogos que desejam criar
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://manual.yoyogames.com/#t=Content.htm)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-GML)
+- [VEJA A SINTAXE](./SINTAXE.md)
