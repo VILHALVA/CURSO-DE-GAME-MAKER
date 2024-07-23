@@ -45,9 +45,9 @@ Game Maker é uma ótima opção para desenvolvedores de jogos que desejam criar
 - **Curva de Aprendizado para Código:** Para quem deseja incorporar mais código no desenvolvimento, pode haver uma curva de aprendizado ao se acostumar com a linguagem de script do GameMaker.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "TARI"](https://youtube.com/playlist?list=PLQa_0xOU1JV9BrQzjvikgq1sm7phEJnqe&si=yWZaT1fSrJK93Hx3)
+- [CURSO CRIADO PELO "MARLON SYMCZECYM"](https://github.com/marlon-Symczecym/Flappy-Plane)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://manual.yoyogames.com/#t=Content.htm)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-GML)
-- [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:GAMER-MAKER)
